@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\AsenkronIO\SplitAsyncIO\SplitAsyncIO\bin\Debug\SplitAsyncIO.exe.config
+C:\Users\DELL\source\repos\AsenkronIO\SplitAsyncIO\SplitAsyncIO\bin\Debug\SplitAsyncIO.exe
+C:\Users\DELL\source\repos\AsenkronIO\SplitAsyncIO\SplitAsyncIO\bin\Debug\SplitAsyncIO.pdb
+C:\Users\DELL\source\repos\AsenkronIO\SplitAsyncIO\SplitAsyncIO\obj\Debug\SplitAsyncIO.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\AsenkronIO\SplitAsyncIO\SplitAsyncIO\obj\Debug\SplitAsyncIO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AsenkronIO\SplitAsyncIO\SplitAsyncIO\obj\Debug\SplitAsyncIO.exe
+C:\Users\DELL\source\repos\AsenkronIO\SplitAsyncIO\SplitAsyncIO\obj\Debug\SplitAsyncIO.pdb
